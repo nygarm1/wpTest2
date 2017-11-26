@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "wptest-2-client-side-solution",
+    "id": "7d1da4df-66bd-4f1f-96a5-27a59e7e14ec",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/wptest-2.sppkg"
+  }
+}

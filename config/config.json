@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/wptest2/Wptest2WebPart.js",
+      "manifest": "./src/webparts/wptest2/Wptest2WebPart.manifest.json",
+      "outputPath": "./dist/wptest-2-web-part.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "Wptest2WebPartStrings": "webparts/wptest2/loc/{locale}.js"
+  }
+}
